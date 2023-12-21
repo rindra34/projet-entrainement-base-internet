@@ -1,2 +1,2 @@
 # projet-entrainement-base-internet
-Projet
+Bonjour, je vous remets mon projet entrainement sur les bases d'internet
